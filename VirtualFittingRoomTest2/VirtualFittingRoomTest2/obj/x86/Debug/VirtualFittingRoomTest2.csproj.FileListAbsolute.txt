@@ -1,0 +1,7 @@
+F:\Kinect\VirtualDressingRoom\VirtualFittingRoomTest2\VirtualFittingRoomTest2\obj\x86\Debug\MainWindow.baml
+F:\Kinect\VirtualDressingRoom\VirtualFittingRoomTest2\VirtualFittingRoomTest2\obj\x86\Debug\MainWindow.g.cs
+F:\Kinect\VirtualDressingRoom\VirtualFittingRoomTest2\VirtualFittingRoomTest2\obj\x86\Debug\App.g.cs
+F:\Kinect\VirtualDressingRoom\VirtualFittingRoomTest2\VirtualFittingRoomTest2\obj\x86\Debug\VirtualFittingRoomTest2_MarkupCompile.cache
+F:\Kinect\VirtualDressingRoom\VirtualFittingRoomTest2\VirtualFittingRoomTest2\obj\x86\Debug\VirtualFittingRoomTest2.g.resources
+F:\Kinect\VirtualDressingRoom\VirtualFittingRoomTest2\VirtualFittingRoomTest2\obj\x86\Debug\VirtualFittingRoomTest2.Properties.Resources.resources
+F:\Kinect\VirtualDressingRoom\VirtualFittingRoomTest2\VirtualFittingRoomTest2\obj\x86\Debug\VirtualFittingRoomTest2.csproj.GenerateResource.Cache
